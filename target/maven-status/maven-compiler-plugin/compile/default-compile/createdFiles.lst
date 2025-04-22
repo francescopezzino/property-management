@@ -1,0 +1,11 @@
+com\mycompany\property_management\controller\PropertyController.class
+com\mycompany\property_management\service\PropertyService.class
+com\mycompany\property_management\controller\CalculatorMain.class
+com\mycompany\property_management\repository\PropertyRepository.class
+com\mycompany\property_management\entity\PropertyEntity.class
+com\mycompany\property_management\PropertyManagementApplication.class
+com\mycompany\property_management\converter\PopertyConverter.class
+com\mycompany\property_management\dto\CalculatorDTO.class
+com\mycompany\property_management\dto\PropertyDTO.class
+com\mycompany\property_management\controller\CalculatorController.class
+com\mycompany\property_management\service\impl\PropertyServiceImpl.class
