@@ -21,7 +21,7 @@ public class PropertyController {
 
     @GetMapping("/hello")
     public String sayHello() {
-        return "Hello";
+        return "Hello endpoint";
     }
 
     @PostMapping("/properties")
